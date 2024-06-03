@@ -20,5 +20,5 @@ A simple and responsive Todo application built with React and Material-UI. This 
 
 ### Installation
 1. clone the repository
-2. intall the dependency material UI.
-3. use the npm run dev the run in local browser.
+2. install the dependency material UI.
+3. use the npm run dev the run in local system.
