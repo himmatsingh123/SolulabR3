@@ -1,8 +1,24 @@
-# React + Vite
+# My Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Todo application built with React and Material-UI. This app allows users to add, view, edit, and delete tasks. Tasks are stored in the browser's local storage to persist data between sessions.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new tasks with a title and description.
+- Edit existing tasks.
+- Delete tasks.
+- Search tasks by title or description.
+- Responsive design with Material-UI.
+- Data persistence using local storage.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+1. clone the repository
+2. intall the dependency material UI.
+3. use the npm run dev the run in local browser.
